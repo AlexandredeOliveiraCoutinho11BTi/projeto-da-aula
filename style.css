@@ -1,0 +1,36 @@
+h1{
+    color:azure;
+}
+body{
+    background-color: black;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/150px-WhatsApp.svg.png");
+    background-size: 1100px;
+    background-repeat: repeat-y;
+    background-position: right top;
+    background-attachment: fixed;  
+}
+h2{
+    color: aqua;
+}
+p{
+    color: antiquewhite;
+}
+li{
+    color: whitesmoke;
+}
+ul{
+    color: lightblue;
+}
+ol{
+    color: lightskyblue;
+}
+.texto_verde{
+    color: lightgreen;
+}
+img{
+    height: 400px;
+    width: auto;
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
